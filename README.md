@@ -14,11 +14,11 @@ I'm a passionate software and web developer who loves building end-to-end soluti
 
 I’m interested in **end-to-end software and web development**, from frontend to backend, and everything in between. I enjoy solving complex problems and building scalable, maintainable solutions.
 
-## 💞️ Collaboration
+<!-- ## 💞️ Collaboration
 
 I’m looking to collaborate on **interesting and challenging projects**. If you have a project that needs a dedicated developer, feel free to reach out!
 
----
+---  -->
 
 Thanks for checking out my profile! 🚀
 
